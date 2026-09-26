@@ -6,3 +6,4 @@ module.exports.descricao = "Cache de borda para app que precisa continuar funcio
 // 2026-09-24T11:37:00Z manutencao
 // 2026-09-24T14:25:00Z manutencao
 // 2026-09-25T10:26:00Z manutencao
+// 2026-09-26T11:36:00Z manutencao
